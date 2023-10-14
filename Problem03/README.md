@@ -1,7 +1,7 @@
 # Day 3: Binary Diagnostic
 Not a hard problem. It's just really, really easy to make mistakes, especially during part 2. I stayed up until 12 AM to do this right when it released, and since I'm not used to that I couldn't really think straight.
 
-Also, first [Hall of Shame](https://github.com/Daphne-Qin/AdventOfCode2021#longest-runtimes-hall-of-shame-fame) entry for the year![^1] I've decided to not stay up until 12 AM again. (Although knowing myself, I'd probably do it again in less than a week.)[^2]
+Also, first [Hall of Shame](https://github.com/Ruminere/aoc-2021#longest-runtimes-hall-of-shame-fame) entry for the year![^1] I've decided to not stay up until 12 AM again. (Although knowing myself, I'd probably do it again in less than a week.)[^2]
 
 Here were my answers:
 | Part 1 | Part 2 |

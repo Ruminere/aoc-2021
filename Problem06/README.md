@@ -1,5 +1,5 @@
 # Day 6: Lanternfish
-As I'm sure a lot of other people did, I did the bashy solution, which is to say I used ArrayLists with a counter for each fish and added new fishes for each fish that reached 0. Then I ran Part 1 with no problems.
+As I'm sure a lot of other people did, I did the naïve solution, which is to say I used ArrayLists with a counter for each fish and added new fishes for each fish that reached 0. Then I ran Part 1 with no problems.
 
 I was unable to do the same for Part 2 since I got an `OutOfMemory` error. I thought a bit more, realized that fish could be grouped together by day (after all they all stayed within their group while cycling through the days), and coded that solution. Then I got a negative number for my Part 2 answer (my code had a logic error) and realized I got an overflow error, so I used a Longs instead of Integers.
 
